@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm behnam</h1>
-<h3 align="center">A passionate backend & game developer from Iran</h3>
-
+<h1>Hi 👋, I'm behnam</h1>
+<h3>A passionate backend & game developer from Iran</h3>
+<br>
+<br>
+<br>
 - 🔭 I’m currently working on **Learn CG App**
 
 - 🌱 I’m currently learning **microservices**
